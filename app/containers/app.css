@@ -1,0 +1,86 @@
+.marker {
+  -webkit-transition: all 7s ease-in-out;
+  -moz-transition: all 7s ease-in-out;
+  -o-transition: all 7s ease-in-out;
+  transition: all 7s ease-in-out;
+
+  border-radius: 15px;
+  border: 1px solid #FFF;
+  display: inline-block;
+  width: auto!important;
+  height: auto!important;
+  width: 40px!important;
+  text-align: center;
+  height: 30px!important;
+  line-height: 30px;
+  color: #FFFFFF;
+  font-weight: bold;
+  overflow: hidden;
+}
+
+.bus {
+  background-color: #333;
+}
+
+.bus800000 {
+  background-color: #800000;
+}
+
+.busFF0000 {
+  background-color: #FF0000;
+}
+.busFFA500 {
+  background-color: #FFA500; 
+}
+.busFFFF00 {
+  background-color: #FFFF00; 
+  color: #000000 !important;
+}
+.bus808000 {
+  background-color: #808000; 
+}
+.bus008000 {
+  background-color: #008000; 
+}
+.bus800080 {
+  background-color: #800080; 
+}
+.busFF00FF {
+  background-color: #FF00FF; 
+}
+.bus00FF00 {
+  background-color: #00F000; 
+}
+.bus008080 {
+  background-color: #008080; 
+}
+.bus00FFFF {
+  background-color: #00FFFF; 
+  color: #000000 !important;
+}
+.bus0000FF {
+  background-color: #0000FF; 
+}
+.bus000000 {
+  background-color: #000000; 
+}
+.busC0C0C0 {
+  background-color: #C0C0C0; 
+  color: #000000 !important;
+}
+
+.rail90 {
+  background-color: #D11241;
+}
+.rail100 {
+  background-color: #0069AA;
+}
+.rail190 {
+  background-color: #FFC423;
+}
+.rail200 {
+  background-color: #008752;
+}
+.rail290 {
+  background-color: #D25D13;
+}
