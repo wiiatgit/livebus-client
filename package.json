@@ -62,7 +62,6 @@
   "repository": {
     "type": "git",
     "url": "https://wiiatgit@bitbucket.org/chungyih/client.git"
-    //"url": "git+ssh://git@github.com/browniefed/pdxlivebus.git"
   },
   "keywords": [
     "livebus",
